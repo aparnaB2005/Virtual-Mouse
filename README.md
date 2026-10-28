@@ -177,17 +177,3 @@ virtual-mouse/
 ├── screenshots/          # created automatically when you take screenshots
 └── README.md
 ```
-
----
-
-## Team
-
-PDQA Project, Department of Computer Engineering, Shri Govindram Seksaria Institute of Technology and Science (SGSITS), Indore, 2026-27.
-
-| Name | Enrollment No. |
-|---|---|
-| Anushka Parihar | 0801CS231027 |
-| Aparna Bhargava | 0801CS231028 |
-| Astitva Bandil | 0801CS231035 |
-| Khushi Bansal | 0801CS231064 |
-| Kratika Dalodia | 0801CS231065 |
